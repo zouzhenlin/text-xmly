@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "xmly"
+    }
+  },
+  "defaultProject": "xmly",
+  "cli": {
+    "analytics": "3a19a6bc-f65e-4b3d-b66d-92095d8855fb"
+  }
 }
